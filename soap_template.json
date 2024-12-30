@@ -1,4 +1,10 @@
 {
     "template_name": "SOAP Note",
-    "content": ""
+    "content": {
+        "Subjective": "Patient reports mild discomfort in the lower back.",
+        "Objective": "Observed restricted mobility in lumbar spine; no swelling.",
+        "Assessment": "Likely strain in lumbar musculature.",
+        "Plan": "Recommend physical therapy twice weekly and NSAIDs as needed."
+    }
 }
+
