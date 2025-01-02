@@ -1,7 +1,7 @@
 
 # Transcription Pipeline
 
-A pipeline for audio transcription, NLP refinement, and reporting.
+A pipeline for chart notes to text via audio transcription, including advanced NLP refinement, and reporting.
 
 ## Features
 - Audio recording and upload
@@ -11,4 +11,3 @@ A pipeline for audio transcription, NLP refinement, and reporting.
 - CSV/JSON export and BigQuery integration
 - Looker-based reporting
 
-## Project Structure
