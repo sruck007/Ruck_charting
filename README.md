@@ -1,7 +1,7 @@
 
 # Transcription Pipeline
 
-A pipeline for mock provider transcriptions with machine learning techniques. Allows chart SOAP notes to be audio transcribed for reducing clinican burden. Includes basic HTML UI with advanced NLP refinement, and data reporting metrics for performance
+A pipeline for mock provider transcriptions with machine learning techniques. Allows chart/SOAP notes to be audio transcribed with Speech to text for reducing clinican burden. Includes basic HTML UI with advanced NLP refinement, and data reporting metrics for performance
 
 ## Features
 - Audio recording and upload
