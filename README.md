@@ -1,7 +1,7 @@
 
 # Transcription Pipeline
 
-A pipeline for chart notes to text via audio transcription, including advanced NLP refinement, and reporting.
+A pipeline for mock provider transcriptions with machine learning techniques. Allows chart notes to be created text via audio transcription, with advanced NLP refinement, and data reporting metrics for performance
 
 ## Features
 - Audio recording and upload
